@@ -1,0 +1,21 @@
+path: /content/drive/MyDrive/dataset
+train: train/images
+val: valid/images
+nc: 16
+names:
+- Banana
+- apple
+- beet
+- bread
+- crusted chicken
+- cucumber
+- fries
+- glazed carrot
+- macaroni
+- muffins
+- oatmeal
+- omelette
+- pancake
+- potato wedges
+- rice
+- sunny sideup egg
