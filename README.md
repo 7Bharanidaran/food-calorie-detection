@@ -23,4 +23,9 @@ food-calorie-detection/
 ├── data.yaml        # Dataset configuration
 ├── results.csv      # Model results
 └── README.md        # Project documentation
-```
+## 📂 Dataset
+Full dataset available on Google Drive:
+
+- 🔗 Training Data: https://drive.google.com/drive/folders/15uHdBVid5zf-S14YS62POxf7qZW83oIr
+- 🔗 Validation Data: 
+```https://drive.google.com/drive/folders/1DZ0pNZNYCbiJA2xoiKx3qJRP_9bkE5HH
